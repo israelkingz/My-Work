@@ -1,12 +1,8 @@
 <!DOCTYPE html>
-<!--[if IE 9]><html class="no-js ie9" lang="en-US" prefix="og: http://ogp.me/ns#"><![endif]-->
-<!--[if gt IE 9]><!--><html class="no-js" lang="en-US" prefix="og: http://ogp.me/ns#"><!--<![endif]-->
+<html class="no-js" lang="en-US" prefix="og: http://ogp.me/ns#">
 
-
-<!-- Mirrored from jaipurprinters.com/ by HTTrack Website Copier/3.x [XR&CO'2014], Mon, 26 Mar 2018 17:16:31 GMT -->
-<!-- Added by HTTrack --><meta http-equiv="content-type" content="text/html;charset=UTF-8" /><!-- /Added by HTTrack -->
-<head>
- <link rel="icon" href="images/logo.png"/>  
+<meta http-equiv="content-type" content="text/html;charset=UTF-8" />
+<head>  
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <title>HNG Internship </title>
@@ -133,12 +129,11 @@ Today;s Date Is: <br>
   
 
   
-  </div> <!-- END #top.site -->
+  </div> 
 
   
 
   
 </body>
 
-<!-- Mirrored from jaipurprinters.com/ by HTTrack Website Copier/3.x [XR&CO'2014], Mon, 26 Mar 2018 17:17:00 GMT -->
 </html>
